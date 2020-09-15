@@ -7,4 +7,3 @@ def meal_choice(veg1, veg2, protein = "tofu")
   puts meal
 end
 
-meal_choice('carrots', 'string beans', 'lentils')
